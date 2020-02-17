@@ -1,4 +1,4 @@
-# Patient Portal a.k.a PP
+# project-2
 
 ## Project Description
 
